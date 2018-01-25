@@ -29,7 +29,7 @@ namespace UnderstandingArrays
 
             // 如何依次检查一个数组中的每个元素？
             // 方法1 
-            
+            /*
             int[] numbers = new int[5]; //创建整数数组，数组内有5个元素
 
             numbers[0] = 4; //从此处开始，依次访问每个元素并赋值
@@ -38,12 +38,12 @@ namespace UnderstandingArrays
             numbers[3] = 16;
             numbers[4] = 23;
             //numbers[5] = 42;
-
+            
 
             Console.WriteLine(numbers[6]); // 调用索引为1的元素
             Console.WriteLine(numbers.Length); // 显示数组长度（有几个元素）
             Console.ReadLine();
-            
+            */
 
             // 方法2 
             /*
